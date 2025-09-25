@@ -32,3 +32,38 @@ Untuk menjawab hal ini, kelompok kami berencana membuat sebuah web yang membantu
 ## 🎯 Tujuan
 - Membuat sebuah platform yang dirancang untuk membantu mahasiswa maupun calon profesional dalam melakukan evaluasi terhadap CV mereka berdasarkan **kesesuaian dengan deskripsi pekerjaan** yang dituju.  
 - Sistem ini memberikan **penilaian objektif** serta **rekomendasi perbaikan** yang relevan, sehingga meningkatkan peluang kandidat untuk memenuhi standar kualifikasi dan kebutuhan perusahaan.
+
+---
+
+## 🗓️ Timeline
+
+| Minggu | Task |
+|--------|------|
+| **5**  | Project Setup |
+| **6-7**| Authentication dan File Upload |
+| **8-9**| Jobdesc Input dan Score Matching |
+| **10-11** | Integrasi AI |
+| **12-13** | Visualisasi |
+| **14** | QA |
+| **15** | Refinement |
+| **16** | **Finalisasi** |
+
+---
+
+## 🚀 Rencana Fitur
+
+### 🔑 Fitur Utama
+- User Authentication  
+- Upload CV  
+- Matching, Feedback, and Scoring  
+- History Review  
+- Export Report  
+
+### ➕ Fitur Tambahan
+- Comparison Mode  
+- Skill Course Recommendation  
+- CV Template  
+
+### 🛠️ Sisi Admin
+- Job Desc Management  
+- Monitoring and Analytics  
